@@ -52,11 +52,12 @@ Here are some ideas to get you started:
 <br>
 
 <h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app?user=ashwani89n&theme=dark&border_radius=2&card_width=500" alt="streak stats"/>
+<div align="center">  
+ <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app?user=ashwani89n&theme=dark&border_radius=2&card_width=500" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ashwani89n&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10&card_width=500" alt="readme stats"/>
   <br/>
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashwani89n&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+ <img alt="contributions" src="https://raw.githubusercontent.com/ashwani89n/ashwani89n/output/github-snake.svg" />
 </div>
 
 <br/>
@@ -74,5 +75,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+<br/>
+<br>
+
+  
 
 
