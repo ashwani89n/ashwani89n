@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </h1>
 <div align="center" style="color: white;">Full Stack Developer | Passionate About Building Scalable Applications </div>
 <br>
-</br>
 
 <h2 align="center">About Me</h2>
 
@@ -32,7 +31,6 @@ Here are some ideas to get you started:
 - 💡 Actively seeking **software engineering roles**, leveraging cutting-edge technologies to solve complex problems.
 
 <br/>
-<br>
 
 <h2 align="center">Languages &amp; Frameworks</h2>
 <p align="center">
@@ -49,7 +47,6 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
 </p>
 <br/>
-<br>
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">  
@@ -61,7 +58,6 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<br>
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
@@ -77,7 +73,6 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-<br>
 
   
 
